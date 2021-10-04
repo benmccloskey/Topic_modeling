@@ -8,7 +8,11 @@ All of my data was loading into the IDE as a panda's dataframe. I original had t
 Month-Year - Review - Platform - Rating
 
 **Month** - The month in which the review was posted.
+
 **Year** - The year in which the review was posted.
+
 **Review** - The review itself. There was NO quotations/special characters added to the reviews unless added by the reviewer.
+
 **Platform** - The online platform where the review was posted.
+
 **Rating** - The rating given to the review.
