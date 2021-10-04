@@ -2,6 +2,8 @@
 Topic Modeling Analysis Code
 I am providing code for various information that can be extracted from a text data. This code was used for a Text Mining Project that involved analyzing and uncovering latent characteristics in a text Corpus of Online Restuarant Reviews gathered from Facebook, TripAdvisor, Yelp, and Google Reviews.
 
+**IDE** - Jupyter Notebook
+
 **DataFrame Set-Up**
 
 All of my data was loading into the IDE as a panda's dataframe. I original had the data in a CSV file with the following collumns:
